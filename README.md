@@ -1,6 +1,7 @@
-### Hi there 👋
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/matrice.jpg)
 
 <!--
+
 **BU33R/BU33R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
