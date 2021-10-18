@@ -8,7 +8,7 @@ Mes Compétences :
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/NodeJS.png) ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PY.png)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/Rick2.jpg)
+
 <!--
 
 **BU33R/BU33R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
