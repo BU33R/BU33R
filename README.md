@@ -1,15 +1,10 @@
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/Rick2.png)
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/Morty.png)
 
 Mes Compétences : 
 
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/HTML5.png)
-
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/CSS3.png)
-
-![Cover]()
-![Cover]()
-![Cover]()
-![Cover]()
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/HTML5.png) ![Cover](https://github.com/BU33R/BU33R/blob/main/img/CSS3.png)
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/PHP.png) ![Cover](https://github.com/BU33R/BU33R/blob/main/img/JS.png)
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/NodeJS.png) ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PY.png)
 
 
 <!--
