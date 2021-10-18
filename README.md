@@ -1,5 +1,15 @@
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/Rick2.png)
 
+Mes Compétences : 
+
+![Cover]()
+![Cover]()
+![Cover]()
+![Cover]()
+![Cover]()
+![Cover]()
+
+
 <!--
 
 **BU33R/BU33R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
