@@ -1,4 +1,4 @@
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/Morty.png)
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/Morty.jpg)
 
 Mes Compétences : 
 
