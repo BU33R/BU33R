@@ -1,4 +1,4 @@
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/Morty.jpg)
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/Rick2.png)
 
 Mes Compétences : 
 
@@ -6,7 +6,7 @@ Mes Compétences :
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PHP.png) ![Cover](https://github.com/BU33R/BU33R/blob/main/img/JS.png)
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/NodeJS.png) ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PY.png)
 
-
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/Morty.jpg)
 <!--
 
 **BU33R/BU33R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
