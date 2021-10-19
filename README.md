@@ -9,9 +9,9 @@
           ![Cover](https://github.com/BU33R/BU33R/blob/main/img/laravel.png)
 
 ***
-## IDE
+<pre> ## IDE </pre>
 ***
-<pre> ![Cover](https://github.com/BU33R/BU33R/blob/main/img/vs.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PyCharme.png) </pre>
+ ![Cover](https://github.com/BU33R/BU33R/blob/main/img/vs.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PyCharme.png)
 
 
 
