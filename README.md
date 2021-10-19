@@ -6,7 +6,7 @@
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/php.png)           ![Cover](https://github.com/BU33R/BU33R/blob/main/img/JS.png)
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PY.png)
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PS.png)
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/laravel.png)
+
 ***
 ## IDE :  
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/VS.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PyCharme.png)
@@ -14,7 +14,7 @@
 ## Framework :
 ***
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/react.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/BS.png)
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/nodeJS.png) 
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/nodeJS.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/laravel.png)
 ***
 ## Mes Réseaux :
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/LK.png) 
