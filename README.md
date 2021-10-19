@@ -4,7 +4,7 @@
 
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/HTML5.png)           ![Cover](https://github.com/BU33R/BU33R/blob/main/img/css3.png)
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PHP.png)           ![Cover](https://github.com/BU33R/BU33R/blob/main/img/JS.png)
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/NodeJS.png)           ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PY.png)
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/nodeJS.png)           ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PY.png)
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/bootstrap.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PS.png)
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/PyCharme.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/laravel.png)
 ***
