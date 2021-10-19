@@ -18,7 +18,8 @@
 ![Cover](https://github.com/BU33R/BU33R/blob/main/img/nodeJS.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/laravel.png)
 ***
 ## Mes Réseaux :
-![Cover](https://github.com/BU33R/BU33R/blob/main/img/LK.png) 
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/LK.png)          ![Cover](https://github.com/BU33R/BU33R/blob/main/img/twitter.png)
+![Cover](https://github.com/BU33R/BU33R/blob/main/img/insta.png)
 ***
 
 
